@@ -22,4 +22,4 @@ One-dimensional numpy array:  [  12.23   13.32  100.     36.32]
 * Expected Output
           
           Type: numpy.ndarray
-          Value: array([12.23, 13.32, 100, 36.32])
+          Value: array([12.23, 13.32, 100., 36.32])
