@@ -1,7 +1,5 @@
 import numpy as np
-
-
 def solution(l):
-    """
-    Enter your code here
-    """
+x =  np.arange(2, 11).reshape(3,3)
+print(x)
+solution(l)
