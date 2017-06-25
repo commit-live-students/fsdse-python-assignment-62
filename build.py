@@ -1,7 +1,5 @@
 import numpy as np
 
-
 def solution(l):
-    """
-    Enter your code here
-    """
+    nd_array = np.array(l)
+    return nd_array
