@@ -1,7 +1,5 @@
 import numpy as np
 
-
-def solution(l):
-    """
-    Enter your code here
-    """
+def solution(lst):
+    fnl = np.array(lst)
+    return fnl
