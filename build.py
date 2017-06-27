@@ -5,3 +5,4 @@ def solution(l):
     """
     Enter your code here
     """
+    return np.array(l)
