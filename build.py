@@ -2,6 +2,5 @@ import numpy as np
 
 
 def solution(l):
-    """
-    Enter your code here
-    """
+    x = np.array(l)
+    return x
